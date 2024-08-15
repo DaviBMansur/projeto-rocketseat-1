@@ -39,7 +39,8 @@ body * {
 }
 /*the # takes the id from HTML, margin commands dont fit with top and bottom automatically*/
 #container-1 {
-  height: 712px;
+  height: 100%;
+  max-width: 588px;
   width: 360px;
   margin: 30px auto 0px;
 }
